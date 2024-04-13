@@ -4,6 +4,7 @@
 
 #include "helper.h"
 #include "danish.dtsi"
+#include "keypos_42keys.h"
 
 / {
         keymap {
